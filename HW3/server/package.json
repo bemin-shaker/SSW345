@@ -1,0 +1,13 @@
+{
+  "name": "ssw345-rest-lab-server",
+  "version": "1.0.0",
+  "description": "Practice with REST server concepts.",
+  "main": "index.js",
+  "keywords": [
+    "REST"
+  ],
+  "dependencies": {
+    "express": "^4.17.1",
+    "uid": "^1.0.0"
+  }
+}
