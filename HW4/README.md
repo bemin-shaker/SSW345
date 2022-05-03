@@ -23,7 +23,7 @@ The most difficult part of implementation was figuring out the recommendation sy
 
 3. What implementation, testing, and integration methods might you want to try again in the future on another project?
 
-I definately want to try to develop more Discord bots in the future. This was my first time interacting with Discord JS and after seeing how fun and easy it is, I would love to bring other ideas to live on the Discord platform. 
+I definately want to try to develop more Discord bots in the future. This was my first time interacting with Discord JS and after seeing how fun and easy it is, I would love to bring other ideas to life on the Discord platform. 
 
 ## Process
 1. What was most helpful about implementing kanban and code review in your project?
