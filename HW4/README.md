@@ -22,6 +22,7 @@ The Discord API, Google Maps Geocoding API, and OpenWeather API were all helpful
 The most difficult part of implementation was figuring out the recommendation system. Since there are infinitely different combinations of weather conditions, it was quite difficult at first to try to organize the way that the bot would recommend different clothing options for the user. Ultimtely, the team did a bit of brainstorming and are pleased with the working product. 
 
 3. What implementation, testing, and integration methods might you want to try again in the future on another project?
+
 I definately want to try to develop more Discord bots in the future. This was my first time interacting with Discord JS and after seeing how fun and easy it is, I would love to bring other ideas to live on the Discord platform. 
 
 ## Process
